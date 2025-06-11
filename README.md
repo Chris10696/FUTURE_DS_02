@@ -94,9 +94,3 @@ The dashboard is structured into multiple pages for clarity and storytelling:
 ## 🙌 Acknowledgment
 
 This project was completed as part of the **#FutureInterns** program to build real-world data analytics skills using modern tools like Power BI, Excel, and DAX.
-
----
-
-## 🏷️ Tags
-
-\#PowerBI #MarketingAnalytics #SocialMediaData #CTR #ROI #DAX #DataVisualization #FutureInterns #CampaignPerformance
