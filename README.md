@@ -55,7 +55,13 @@ The dashboard is structured into multiple pages for clarity and storytelling:
 * CTR (Click-Through Rate) = `Clicks / Impressions`
 * CPC (Cost Per Click) = `Spend / Clicks`
 * Conversion Rate = `Approved Conversions / Clicks`
-* ROI (Return on Investment) 
+* ROI (Return on Investment)=
+
+  $$
+  \frac{(\text{Approved Conversions} \times \text{Conversion Value}) - \text{Spend}}{\text{Spend}}
+  $$
+
+  A **user-defined parameter** allows the marketer to adjust the value per conversion (e.g., \$10–\$100), dynamically updating ROI in real time.
 
 🔍 Key Insights & Observations
 
@@ -77,3 +83,4 @@ The dashboard is structured into multiple pages for clarity and storytelling:
 🙌 Acknowledgment
 
 This project was completed as part of the FutureInterns program to build real-world data analytics skills using modern tools like Power BI, Excel, and DAX.
+
